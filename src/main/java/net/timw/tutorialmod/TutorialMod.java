@@ -4,6 +4,7 @@ import net.fabricmc.api.ModInitializer;
 
 import net.minecraft.resources.Identifier;
 
+import net.timw.tutorialmod.block.ModBlocks;
 import net.timw.tutorialmod.creativemodetab.ModCreativeModeTabs;
 import net.timw.tutorialmod.item.ModItems;
 import org.slf4j.Logger;
@@ -18,5 +19,6 @@ public class TutorialMod implements ModInitializer {
 		ModCreativeModeTabs.registerModCreativeModeTabs();
 
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }

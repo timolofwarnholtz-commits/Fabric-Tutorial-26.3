@@ -13,6 +13,8 @@ import net.timw.tutorialmod.TutorialMod;
 import java.util.function.Function;
 
 public class ModItems {
+
+
     public static final Item FLUORITE = registerItem("fluorite", Item::new);
     public static final Item RAW_FLUORITE = registerItem("raw_fluorite", Item::new);
 

@@ -1,5 +1,11 @@
 // 26.3	-999999999-01-01T00:00:00	Tutorial Mod/Model Definitions
+2a568c774bd47c66c989aa375efbb434012de0f2 assets/tutorialmod/blockstates/fluorite_block.json
+a8f77b79151dd10efabd9241d1094ef852a85523 assets/tutorialmod/blockstates/raw_fluorite_block.json
 0be1ad5ae2627b4ea20c36c422e6001a29ecc7fe assets/tutorialmod/items/fluorite.json
+8a886cd8cf919a266d3ea01d8a0c209df2cf4616 assets/tutorialmod/items/fluorite_block.json
 c9f5aefcd09ada451a50297fe87f61e6d9266e2d assets/tutorialmod/items/raw_fluorite.json
+00560a755d0223c9b2703475550b6df99093e416 assets/tutorialmod/items/raw_fluorite_block.json
+b55e43776f1d0310bd46fe712a3108e00568002d assets/tutorialmod/models/block/fluorite_block.json
+ed95a1b56248546b751aa94e25c7441dc13fc9fe assets/tutorialmod/models/block/raw_fluorite_block.json
 274bc448a39a256231897fcbf4596ac4db786fa2 assets/tutorialmod/models/item/fluorite.json
 86543c2d342d40575f7a48ebccdf047d274127b8 assets/tutorialmod/models/item/raw_fluorite.json
