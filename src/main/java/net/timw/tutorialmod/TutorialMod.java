@@ -4,6 +4,7 @@ import net.fabricmc.api.ModInitializer;
 
 import net.minecraft.resources.Identifier;
 
+import net.timw.tutorialmod.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -13,5 +14,6 @@ public class TutorialMod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		ModItems.registerModItems();
 	}
 }
